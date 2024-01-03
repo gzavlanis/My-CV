@@ -55,6 +55,9 @@
     "gdpr": false,
     "uniqCompNum": 15,
     "versionPublish": "5.9.7",
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A346394%2C%22domain%22%3A%227rcjnhgxyl.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
